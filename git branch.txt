@@ -1,0 +1,2 @@
+git remote add fork [url-to-empty-repo]
+git push fork HEAD:refs/heads/branchname
